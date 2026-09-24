@@ -5,6 +5,13 @@ brightly glowing **King** and his small ring of white guards stand besieged at
 the centre by a massive host of dark-red attackers. The King runs for a corner;
 the host closes in. It's an asymmetric duel, and the game leans into the drama.
 
+## Screenshots
+
+<p>
+  <img src="images/title.png" width="45%" alt="X3Hnefatafl title screen with glowing King and host">
+  <img src="images/gameplay.png" width="45%" alt="X3Hnefatafl 11x11 board at game start">
+</p>
+
 Part of the X3 game suite, so it inherits every on-device-proven pattern:
 640×480 logical canvas, binocular side-by-side rendering, pure-black waveguide
 background, one-swipe-per-step navigation, dwell-to-commit moves,
